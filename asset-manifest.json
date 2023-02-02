@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.768daaa7.css",
+    "main.js": "/portfolio/static/js/main.99f2e7be.js",
+    "static/media/chatApp.jpg": "/portfolio/static/media/chatApp.6a9305e5b21106831212.jpg",
+    "static/media/webpage.JPG": "/portfolio/static/media/webpage.9e9f9eda909887670e87.JPG",
+    "index.html": "/portfolio/index.html",
+    "main.768daaa7.css.map": "/portfolio/static/css/main.768daaa7.css.map",
+    "main.99f2e7be.js.map": "/portfolio/static/js/main.99f2e7be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.768daaa7.css",
+    "static/js/main.99f2e7be.js"
+  ]
+}
